@@ -19,7 +19,7 @@ nava.firstName = 'emmanuel'
 nava.lastName = 'nava'
 nava.age = 29
 
-
+//console.log(nava)
 console.log(nava.getInfo())
 
 
@@ -28,7 +28,7 @@ beltran.firstName = 'hessell'
 beltran.lastName = 'beltran'
 beltran.age = 24
 
-
+// console.log(beltran)
 console.log(beltran.getInfo())
 
 

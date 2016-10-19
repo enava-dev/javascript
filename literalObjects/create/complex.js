@@ -19,6 +19,7 @@ enava.firstName = 'emmanuel'
 enava.lastName = 'nava'
 enava.age = 29
 
+console.log(enava)
 console.log(enava.getFullName())
 console.log(enava.getInfo())
 
@@ -51,5 +52,7 @@ addr.number = 1800
 
 enava.address = addr
 
+//console.log(addr)
 // console.log(addr.getAddress())
+console.log(enava)
 console.log(enava.address.getAddress())
