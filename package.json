@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/enava-dev/learningJs/issues"
   },
-  "homepage": "https://github.com/enava-dev/learningJs#readme"
+  "homepage": "https://github.com/enava-dev/learningJs#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3",
+    "request": "^2.76.0"
+  }
 }
