@@ -1,34 +1,3 @@
-
-
-
-PRIMATIVES:
-
-number
-booleans
-strings
-null
-undefined
-
-
-
-OBJECTS:
-
-math
-date
-json
-window
-document
-objects you create
-array
-function
-
-
-
-
-
-
-
-
 las funciones definen el ambito de las variables
 todas las funciones regresan un valor undefined por defecto
 todas las funciones tienen la propiedad name, function.name
